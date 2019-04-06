@@ -7,9 +7,9 @@ Codes for Introduction to Algorithms, a book by Udi.Manber, [download](https://g
 
 ## Table of Contents
 * **Chapter 5 Design of algorithms by introdution
- - [ ] Example 5.2: Evaluating Polynomials
+ - [x] Example 5.2: Evaluating Polynomials
  - [ ] Example 5.3: Maximal Induced Subgraph
- - [ ] Example 5.4: Finding One-to-One Mappings
+ - [x] Example 5.4: Finding One-to-One Mappings
  - [ ] Example 5.5: The Celebrity Problem
  - [ ] Example 5.6: A Divide-and-Conquer Algorithm: The Skyline Problem
  - [ ] Example 5.7: Computing Balance Factors in Binary Trees
