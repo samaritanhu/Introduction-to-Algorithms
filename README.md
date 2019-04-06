@@ -1,3 +1,36 @@
-# Code for Introduction to Algorithms, a book by Udi.Manber
-### Class: Intoduction to Algorithms by East China Normal University.
+# Introduction to Algorithms, A creative approach
+Codes for Introduction to Algorithms, a book by Udi.Manber, [download](https://github.com/samaritanhu/Introduction-to-Algorithms-/tree/master/book) from Chapter 5 to ...(TBD)
+
+## Usage
+* For Python: run the 'ipynb' file in jupyter notebook
+
+
+## Table of Contents
+* **Chapter 5 Design of algorithms by introdution
+ - [ ] Example 5.2: Evaluating Polynomials
+ - [ ] Example 5.3: Maximal Induced Subgraph
+ - [ ] Example 5.4: Finding One-to-One Mappings
+ - [ ] Example 5.5: The Celebrity Problem
+ - [ ] Example 5.6: A Divide-and-Conquer Algorithm: The Skyline Problem
+ - [ ] Example 5.7: Computing Balance Factors in Binary Trees
+ - [ ] Example 5.8: Finding the Maximum Consecutive Subsequence
+ - [ ] Example 5.9: Strengthening the Induction Hypothesis
+ - [ ] Example 5.10: Dynamic Programming: The Knapsack Problem
+
+* **Chapter 5 Algorithms involving sequences and sets
+ - [ ] Example 6.2: Binary Search and Variations
+ - [ ] Example 6.3: Interpolation Search 
+ - [ ] Example 6.5.1: Order Statistics - Maximum and Minimum Elements
+ - [ ] Example 6.5.2: Order Statistics - Finding the kth-Smallest Element
+ - [ ] Example 6.6: Data Compression
+ - [ ] Example 6.7: String Matching
+ - [ ] Example 6.8: Sequence Comparasion
+ - [ ] Example 6.9.1: Probabilistic Algorithms - Random Numbers
+ - [ ] Example 6.9.2: Probabilistic Algorithms - A Coloring Problem
+ - [ ] Example 6.10: Finding a Majority
+ - [ ] Example 6.11.1: Longest Increasing Subsequence
+ - [ ] Example 6.11.2: Finding the Two Largest Elements in a Set
+ - [ ] Example 6.11.3: Computing the Mode of a Multiset
+
+## Contribution 
 
