@@ -33,4 +33,4 @@ Codes for Introduction to Algorithms, a book by Udi.Manber, [download](https://g
  - [ ] Example 6.11.3: Computing the Mode of a Multiset
 
 ## Contribution 
-
+- [SmallY](https://github.com/iamSmallY) for codes of C
