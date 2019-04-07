@@ -10,15 +10,15 @@ Codes for Introduction to Algorithms, a book by Udi.Manber, [download](https://g
  - [x] Example 5.2: Evaluating Polynomials
  - [ ] Example 5.3: Maximal Induced Subgraph
  - [x] Example 5.4: Finding One-to-One Mappings
- - [ ] Example 5.5: The Celebrity Problem
+ - [x] Example 5.5: The Celebrity Problem
  - [ ] Example 5.6: A Divide-and-Conquer Algorithm: The Skyline Problem
  - [ ] Example 5.7: Computing Balance Factors in Binary Trees
- - [ ] Example 5.8: Finding the Maximum Consecutive Subsequence
+ - [x] Example 5.8: Finding the Maximum Consecutive Subsequence
  - [ ] Example 5.9: Strengthening the Induction Hypothesis
  - [ ] Example 5.10: Dynamic Programming: The Knapsack Problem
 
 * **Chapter 5 Algorithms involving sequences and sets
- - [ ] Example 6.2: Binary Search and Variations
+ - [x] Example 6.2: Binary Search and Variations
  - [ ] Example 6.3: Interpolation Search 
  - [ ] Example 6.5.1: Order Statistics - Maximum and Minimum Elements
  - [ ] Example 6.5.2: Order Statistics - Finding the kth-Smallest Element
