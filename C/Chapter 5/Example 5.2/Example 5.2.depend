@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554648723 source:c:\users\smally\desktop\github\introduction to algorithms, a creative approach\example 5.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
