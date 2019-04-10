@@ -7,7 +7,7 @@ Codes for Introduction to Algorithms, a book by Udi.Manber, [download](https://g
 
 ## Table of Contents
 * **Chapter 5 Design of algorithms by introdution
- - [x] Example 5.2: Evaluating Polynomials
+ - [x] Example 5.2: Evaluating Polynomials [C](/codes/C/Chapter 5) [Python](/codes/python/Chapter 5)
  - [ ] Example 5.3: Maximal Induced Subgraph
  - [x] Example 5.4: Finding One-to-One Mappings
  - [x] Example 5.5: The Celebrity Problem
@@ -15,8 +15,8 @@ Codes for Introduction to Algorithms, a book by Udi.Manber, [download](https://g
  - [ ] Example 5.7: Computing Balance Factors in Binary Trees
  - [x] Example 5.8: Finding the Maximum Consecutive Subsequence
  - [ ] Example 5.9: Strengthening the Induction Hypothesis
- - [ ] Example 5.10: Dynamic Programming: The Knapsack Problem
-
+ - [x] Example 5.10: Dynamic Programming: The Knapsack Problem 
+[C](/codes/C/Chapter 5)
 * **Chapter 5 Algorithms involving sequences and sets
  - [x] Example 6.2: Binary Search and Variations
  - [ ] Example 6.3: Interpolation Search 
