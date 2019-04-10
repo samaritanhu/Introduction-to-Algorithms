@@ -7,7 +7,7 @@ Codes for Introduction to Algorithms, a book by Udi.Manber, [download](https://g
 
 ## Table of Contents
 * **Chapter 5 Design of algorithms by introdution
- - [x] Example 5.2: Evaluating Polynomials [C](codes/C/Chapter 5/Example 5.2.c) [Python](codes/python/Chapter 5/Example 5.2.ipynb)
+ - [x] Example 5.2: Evaluating Polynomials [C](codes/C/Chapter 5/Example 5.2.c) [Python](codes/python/Chapter%205/Example%205.2.ipynb) 
  - [ ] Example 5.3: Maximal Induced Subgraph
  - [x] Example 5.4: Finding One-to-One Mappings
  - [x] Example 5.5: The Celebrity Problem
