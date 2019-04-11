@@ -1,5 +1,7 @@
 # Introduction to Algorithms, A creative approach
-Codes for Introduction to Algorithms, a book by Udi.Manber, [download](https://github.com/samaritanhu/Introduction-to-Algorithms-/tree/master/book) from Chapter 5 to ...(TBD)
+Codes for Introduction to Algorithms, a book by Udi.Manber, [download](https://raw.githubusercontent.com/samaritanhu/Introduction-to-Algorithms/book/算法引论%20一种创造性方法.pdf) from Chapter 5 to ...(TBD)
+
+The book takes up 41.9MB space and may slow down the speed of cloning. So, we put it in a standalone branch. You can clone only master branch for better speed.
 
 ## Usage
 * For Python: run the 'ipynb' file in jupyter notebook
