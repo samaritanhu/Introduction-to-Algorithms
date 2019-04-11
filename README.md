@@ -40,3 +40,5 @@ Clone `#master` branch only:
 ## Contribution 
 - [SmallY](https://github.com/iamSmallY) for codes of C
 - [Yhx](https://github.com/18918606287) for codes of Java
+- [QcMiao](https://github.com/qcmiao1998) 
+- [Dalao](https://github.com/johnnychen94)
