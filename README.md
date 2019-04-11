@@ -1,4 +1,4 @@
-# Introduction to Algorithms, A creative approach
+﻿# Introduction to Algorithms, A creative approach
 
 Codes for Introduction to Algorithms, a book by Udi.Manber, [download](https://raw.githubusercontent.com/samaritanhu/Introduction-to-Algorithms/book/算法引论%20一种创造性方法.pdf) from Chapter 5 to ...(TBD)
 
@@ -52,5 +52,5 @@ git clone https://github.com/samaritanhu/Introduction-to-Algorithms.git -b maste
 
 * [SmallY](https://github.com/iamSmallY) for codes of C
 * [Yhx](https://github.com/18918606287) for codes of Java
-* [Q. Miao](https://github.com/qcmiao1998)
+* [Q. Miao](https://github.com/qcmiao1998) for codes of C#
 * [Dalao](https://github.com/johnnychen94)
