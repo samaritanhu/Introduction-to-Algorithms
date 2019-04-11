@@ -4,7 +4,7 @@ Codes for Introduction to Algorithms, a book by Udi.Manber, [download](https://r
 
 The book takes up 41.9MB space and may slow down the speed of cloning. So, we put it in a standalone branch. You can clone only master branch for better speed.
 
-Clone `#master` branch only:  
+Clone `master` branch only:  
 
 ```sh
 git clone https://github.com/samaritanhu/Introduction-to-Algorithms.git -b master --single-branch
