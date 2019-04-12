@@ -13,6 +13,7 @@ git clone https://github.com/samaritanhu/Introduction-to-Algorithms.git -b maste
 ## Usage
 
 * For Python: run the 'ipynb' file in jupyter notebook
+* For C#: In this repo, every example has a class file and you can include it in your project. For the full Visual Studio project files and tests, please visit [qcmiao1998/Introduction-to-Algorithms-Csharp-Codes](https://github.com/qcmiao1998/Introduction-to-Algorithms-Csharp-Codes).
 
 ## Table of Contents
 
