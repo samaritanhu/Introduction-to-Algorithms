@@ -1,4 +1,4 @@
-﻿# Introduction to Algorithms, A creative approach
+# Introduction to Algorithms, A creative approach
 
 Codes for Introduction to Algorithms, a book by Udi.Manber, [download](https://raw.githubusercontent.com/samaritanhu/Introduction-to-Algorithms/book/算法引论%20一种创造性方法.pdf) from Chapter 5 to ...(TBD)
 
@@ -12,7 +12,7 @@ git clone https://github.com/samaritanhu/Introduction-to-Algorithms.git -b maste
 
 ## Usage
 
-* For Python: run the 'ipynb' file in jupyter notebook
+* For Python: run the 'ipynb' file in jupyter notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/samaritanhu/Introduction-to-Algorithms/master?urlpath=tree%2Fcodes%2Fpython)
 * For C#: In this repo, every example has a class file and you can include it in your project. For the full Visual Studio project files and tests, please visit [qcmiao1998/Introduction-to-Algorithms-Csharp-Codes](https://github.com/qcmiao1998/Introduction-to-Algorithms-Csharp-Codes).
 
 ## Table of Contents
