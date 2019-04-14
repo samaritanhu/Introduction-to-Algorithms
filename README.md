@@ -33,21 +33,21 @@ git clone https://github.com/samaritanhu/Introduction-to-Algorithms.git -b maste
 
 * **Chapter 6 Algorithms involving sequences and sets**
 
-| Chapter 6                                                          | C | Python                                                 | MATLAB | Java | C#                                                               |
-|--------------------------------------------------------------------|---|--------------------------------------------------------|--------|------|------------------------------------------------------------------|
-| Example 6.2: Binary Search and Variations                          |   | [Python](codes/python/Chapter%206/Example%206.2.ipynb) |        |      | [C#](codes/csharp/Chapter_6/6_2_Binary_Search_and_Variations.cs) |
-| Example 6.3: Interpolation Search                                  |   |                                                        |        |      | [C#](codes/csharp/Chapter_6/6_3_Interpolation_Search.cs)         |
-| Example 6.5.1: Order Statistics - Maximum and Minimum Elements     |   |                                                        |        |      |                                                                  |
-| Example 6.5.2: Order Statistics - Finding the kth-Smallest Element |   |                                                        |        |      |                                                                  |
-| Example 6.6: Data Compression                                      |   |                                                        |        |      |                                                                  |
-| Example 6.7: String Matching                                       |   |                                                        |        |      |                                                                  |
-| Example 6.8: Sequence Comparasion                                  |   |                                                        |        |      |                                                                  |
-| Example 6.9.1: Probabilistic Algorithms - Random Numbers           |   |                                                        |        |      |                                                                  |
-| Example 6.9.2: Probabilistic Algorithms - A Coloring Problem       |   |                                                        |        |      |                                                                  |
-| Example 6.10: Finding a Majority                                   |   |                                                        |        |      |                                                                  |
-| Example 6.11.1: Longest Increasing Subsequence                     |   |                                                        |        |      |                                                                  |
-| Example 6.11.2: Finding the Two Largest Elements in a Set          |   |                                                        |        |      |                                                                  |
-| Example 6.11.3: Computing the Mode of a Multiset                   |   |                                                        |        |      |                                                                  |
+| Chapter 6                                                          | C | Python                                                 | MATLAB | Java | C#                                                                     |
+|--------------------------------------------------------------------|---|--------------------------------------------------------|--------|------|------------------------------------------------------------------------|
+| Example 6.2: Binary Search and Variations                          |   | [Python](codes/python/Chapter%206/Example%206.2.ipynb) |        |      | [C#](codes/csharp/Chapter_6/6_2_Binary_Search_and_Variations.cs)       |
+| Example 6.3: Interpolation Search                                  |   |                                                        |        |      | [C#](codes/csharp/Chapter_6/6_3_Interpolation_Search.cs)               |
+| Example 6.5.1: Order Statistics - Maximum and Minimum Elements     |   |                                                        |        |      |                                                                        |
+| Example 6.5.2: Order Statistics - Finding the kth-Smallest Element |   |                                                        |        |      | [C#](codes/csharp/Chapter_6/6_5_2_Finding_the_kth_Smallest_Element.cs) |
+| Example 6.6: Data Compression                                      |   |                                                        |        |      |                                                                        |
+| Example 6.7: String Matching                                       |   |                                                        |        |      |                                                                        |
+| Example 6.8: Sequence Comparasion                                  |   |                                                        |        |      |                                                                        |
+| Example 6.9.1: Probabilistic Algorithms - Random Numbers           |   |                                                        |        |      |                                                                        |
+| Example 6.9.2: Probabilistic Algorithms - A Coloring Problem       |   |                                                        |        |      |                                                                        |
+| Example 6.10: Finding a Majority                                   |   |                                                        |        |      |                                                                        |
+| Example 6.11.1: Longest Increasing Subsequence                     |   |                                                        |        |      |                                                                        |
+| Example 6.11.2: Finding the Two Largest Elements in a Set          |   |                                                        |        |      |                                                                        |
+| Example 6.11.3: Computing the Mode of a Multiset                   |   |                                                        |        |      |                                                                        |
 
 ## Contribution  
 
