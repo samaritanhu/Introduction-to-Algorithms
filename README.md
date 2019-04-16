@@ -35,7 +35,7 @@ git clone https://github.com/samaritanhu/Introduction-to-Algorithms.git -b maste
 
 | Chapter 6                                                          | C | Python                                                 | MATLAB | Java | C#                                                                     |
 |--------------------------------------------------------------------|---|--------------------------------------------------------|--------|------|------------------------------------------------------------------------|
-| Example 6.2: Binary Search and Variations                          |   | [Python](codes/python/Chapter%206/Example%206.2.ipynb) |        |      | [C#](codes/csharp/Chapter_6/6_2_Binary_Search_and_Variations.cs)       |
+| Example 6.2: Binary Search and Variations                          |   | [Python](codes/python/Chapter%206/Example%206.2.1.ipynb) |        |      | [C#](codes/csharp/Chapter_6/6_2_Binary_Search_and_Variations.cs)       |
 | Example 6.3: Interpolation Search                                  |   |                                                        |        |      | [C#](codes/csharp/Chapter_6/6_3_Interpolation_Search.cs)               |
 | Example 6.5.1: Order Statistics - Maximum and Minimum Elements     |   |                                                        |        |      |                                                                        |
 | Example 6.5.2: Order Statistics - Finding the kth-Smallest Element |   |                                                        |        |      | [C#](codes/csharp/Chapter_6/6_5_2_Finding_the_kth_Smallest_Element.cs) |
