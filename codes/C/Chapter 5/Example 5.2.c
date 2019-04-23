@@ -10,11 +10,11 @@ int main()
     float *a = NULL;
     int n;
     double result;
-    printf("这是例5.2多项式求值，在每次的输入时输入q即可退出程序。\n请先输入x的值：");
+    printf("You can quit with entering q.Input x:");
     myInput(&x);
-    printf("接下来要输入a0到an.\n请先输入a的下标n:");
+    printf("Input n:");
     if(!(scanf("%d" , &n))){
-        printf("程序已结束，即将退出,bye~\n");
+        printf("quit soon,bye~\n");
         exit(EXIT_SUCCESS);
     }
     a = (float *)malloc((n + 1) * sizeof(float));
@@ -22,23 +22,23 @@ int main()
         printf("error when malloc");
         exit(EXIT_FAILURE);
     }
-    printf("接下来输入a0到an.\n");
+    printf("Input from a0 to an.\n");
     for(int i = 0 ; i <= n ; ++i){
         printf("a%d:" , i);
         myInput(a + i);
     }
     result = sum(x , a , n);
-    printf("计算结果是：%f" , result);
+    printf("There result is %f." , result);
     free(a);
 }
 void myInput(float *input)
 {
     char c;
     if(!(scanf("%f" , input))){
-        printf("程序已结束，即将退出,bye~\n");
+        printf("quit soon,bye~\n");
         exit(EXIT_SUCCESS);
     }
-    while((c = getchar()) != '\n') /*处理输入行中多余字符*/
+    while((c = getchar()) != '\n')
         continue;
 }
 double sum(float x , float *a ,int n)

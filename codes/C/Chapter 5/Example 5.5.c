@@ -2,11 +2,12 @@
 #include <stdbool.h>
 #include <stdlib.h>
 
-/*问题：给定一个n×n的连结矩阵，确定是否存在一个i，其满足在第i列所有项（除了第ii项）都为1，并且第i行所有项（除了ii项）都为0.*/
+/*Problem: Given a n-times-n matrix, determine whether there exists an i,
+which satisfies that all elements in column i (except item a(ii)) are 1, and all elements in line i (except item a(ii)) are 0.*/
 int main() {
     int n;
     int** mat = NULL;
-    printf("请先输入人数n:");
+    printf("Input the number of the people:");
     scanf("%d" , &n);
     mat = (int **)malloc(n * sizeof(int *));
     for (int i = 0; i < n; ++i) {
@@ -16,7 +17,8 @@ int main() {
         printf("malloc failure.");
         exit(EXIT_FAILURE);
     }
-    printf("接下来输入一个n*n的矩阵用来表示人际关系，每两个数之间以空格隔开。\n如果i知道j，则ij项为1，否则为0.\n");
+    printf("Input a n-times-n matrix(every elements should be distinguished by a space) to show the relationship.\n\
+If i knows j, a(ij) equals 1,or it equals 0.\n");
     for (int i = 0; i < n; ++i) {
         for (int j = 0; j < n; ++j) {
             scanf("%d" , *(mat + i) + j);
@@ -46,9 +48,9 @@ int main() {
                     notCelebrity = true;
     }
     if (!notCelebrity)
-        printf("社会名流是第%d人" , candidate + 1);
+        printf("i is :" , candidate + 1);
     else
-        printf("没有社会名流。");
+        printf("There doesn't exist such an i.");
     for (int i = 0; i < n; ++i) {
         free(*(mat + i));
     }

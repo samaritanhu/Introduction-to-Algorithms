@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*问题：给定一个集合A和一个从A到自身的映射f，寻找元素个数最多的一个子集S包含于A。
-S满足通过f得到的S→S是一个双射。*/
+/*Question: Given a set A and a mapping f from A to itself, find a subset S contained in A with the largest number of elements.
+S satisfies that S -> S obtained through f is a bijective. */
 int main()
 {
     int n;
@@ -11,12 +11,12 @@ int main()
     int* c = NULL;
     int queue[100];
     int len = 0;
-    printf("请输入f内元素的个数n:");
+    printf("Input the number of the elements of f:");
     scanf("%d" , &n);
     f = (int *)malloc(n * sizeof(int));
     S = (int *)malloc(n * sizeof(int));
     c = (int *)malloc(n * sizeof(int));
-    printf("请输入f内的元素，以空格隔开：\n");
+    printf("Input the elements of f, distinguished by a space:\n");
     for(int i = 0 ; i < n ; ++i)
         scanf("%d" , f + i);
     for(int i = 0 ; i < n ; ++i)
