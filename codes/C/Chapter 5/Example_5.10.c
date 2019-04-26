@@ -1,16 +1,4 @@
-#include <stdio.h>
-#include <stdlib.h>
 #include "Example_5.10.h"
-
-#ifndef FALSE
-    #define FALSE 0
-#endif // FALSE
-#ifndef EXIST
-    #define EXIST 1
-#endif // EXIST
-#ifndef BELONG
-    #define BELONG 2
-#endif // BELONG
 
 void knapsack(int **res, int *items , int n , int K)
 {

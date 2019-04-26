@@ -1,6 +1,3 @@
-#include <stdio.h>
-#include <stdbool.h>
-#include <stdlib.h>
 #include "Example_5.5.h"
 
 int Celebrity(bool** relationship , int n)

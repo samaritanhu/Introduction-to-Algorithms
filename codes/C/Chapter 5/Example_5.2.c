@@ -1,5 +1,3 @@
-#include <stdio.h>
-#include <stdlib.h>
 #include "Example_5.2.h"
 
 double Polynomial_Evaluation(double* a , int n , int x)

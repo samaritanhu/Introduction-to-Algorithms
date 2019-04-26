@@ -1,5 +1,3 @@
-#include <stdio.h>
-#include <stdlib.h>
 #include "Example_5.4.h"
 
 void Mapping(int* S , int* f , int n)
