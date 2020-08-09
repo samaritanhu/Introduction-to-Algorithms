@@ -4,6 +4,7 @@
 # Author  : Xinyi Hu
 # Contact : samaritanhu@gmail.com
 # Time    : 2019/08/01 13:38
+
 def Polynomial_Evaluation(a, x):
     P = a[-1]
     for i in range(1, len(a)):
