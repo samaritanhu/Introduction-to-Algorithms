@@ -76,7 +76,7 @@ Conceptual chapter, no worked examples to implement.
 
 | # | Example | EN | ZH | Note |
 |---|---|---|---|---|
-| 2.2 | Three Simple Examples 三个简单的例子 | ⬜ | ⬜ | |
+| 2.2 | Three Simple Examples 三个简单的例子 | ✅ [EN](codes/python/Chapter%202/Example%202.2%20(EN).ipynb) | ✅ [ZH](codes/python/Chapter%202/Example%202.2%20(ZH).ipynb) | 🧮 verified numerically |
 | 2.3 | Counting Regions in the Plane 平面内区域的计数 | ⬜ | ⬜ | |
 | 2.4 | A Simple Coloring Problem 简单的着色问题 | ⬜ | ⬜ | |
 | 2.5 | A More Complex Summation Problem 复杂一些的加法题 | ⬜ | ⬜ | |
