@@ -77,9 +77,9 @@ Conceptual chapter, no worked examples to implement.
 | # | Example | EN | ZH | Note |
 |---|---|---|---|---|
 | 2.2 | Three Simple Examples 三个简单的例子 | ✅ [EN](codes/python/Chapter%202/Example%202.2%20(EN).ipynb) | ✅ [ZH](codes/python/Chapter%202/Example%202.2%20(ZH).ipynb) | 🧮 verified numerically |
-| 2.3 | Counting Regions in the Plane 平面内区域的计数 | ⬜ | ⬜ | |
-| 2.4 | A Simple Coloring Problem 简单的着色问题 | ⬜ | ⬜ | |
-| 2.5 | A More Complex Summation Problem 复杂一些的加法题 | ⬜ | ⬜ | |
+| 2.3 | Counting Regions in the Plane 平面内区域的计数 | ✅ [EN](codes/python/Chapter%202/Example%202.3%20(EN).ipynb) | ✅ [ZH](codes/python/Chapter%202/Example%202.3%20(ZH).ipynb) | 🧮 verified via recurrence |
+| 2.4 | A Simple Coloring Problem 简单的着色问题 | ✅ [EN](codes/python/Chapter%202/Example%202.4%20(EN).ipynb) | ✅ [ZH](codes/python/Chapter%202/Example%202.4%20(ZH).ipynb) | |
+| 2.5 | A More Complex Summation Problem 复杂一些的加法题 | ✅ [EN](codes/python/Chapter%202/Example%202.5%20(EN).ipynb) | ✅ [ZH](codes/python/Chapter%202/Example%202.5%20(ZH).ipynb) | |
 | 2.6 | A Simple Inequality 一个简单的不等式 | ⬜ | ⬜ | 🧮 |
 | 2.7 | Euler's Formula 欧拉公式 | ⬜ | ⬜ | 🧮 |
 | 2.8 | A Problem in Graph Theory 图论中的一个问题 | ⬜ | ⬜ | |
